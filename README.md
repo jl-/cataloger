@@ -36,7 +36,7 @@ require('jquery', 'markdown', 'Cataloger', function($, MD, Cataloger) {
     ///           li a'#1-1-2' hihi
     ///   li a'#2' world
     ///
-    ///----------- $md:
+    ///----------- $md.children:
     /// h1#1 welcome
     /// p to the world
     /// h2#1-1 hello
