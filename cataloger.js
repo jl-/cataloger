@@ -4,7 +4,7 @@
   } else if (typeof exports === 'object') {
     module.exports = factory();
   } else {
-    root.MdCataloger = factory();
+    root.Cataloger = factory();
   }
 })(this, function() {
   /**
